@@ -1,3 +1,9 @@
+# Game Night
+
+## This is an app for people who need help when it comes to picking a game to play.
+
+My wife and I are pretty indecisive when it comes to picking a game, and I wanted learn how this whole React things works. Right now the list of available games is hard coded. But I may add the ability to customize the game list in the future.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

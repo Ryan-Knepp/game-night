@@ -1,0 +1,25 @@
+.header {
+  flex-shrink: 0;
+}
+
+.footer {
+  flex-shrink: 0;
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.content {
+  flex-grow: 1;
+  overflow-y: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: calc(100vh - 56px);
+  overflow-y: hidden;
+}

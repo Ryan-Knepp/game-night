@@ -1,0 +1,14 @@
+@media (max-height: 700px) {
+  #header > .headerTitle {
+    font-size: 2rem;
+  }
+  #header > .headerSubtitle {
+    display: none;
+  }
+}
+
+@media (max-width: 525px) {
+  #header > .headerSubtitle {
+    display: none;
+  }
+}
